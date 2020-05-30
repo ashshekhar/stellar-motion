@@ -2,7 +2,7 @@
 
 ## Aim
 
-We aim to determine a star's motion by calculating the `redshift` in its spectrum, using the `Hydrogen-alpha line`
+We aim to determine stellar motion by calculating the `redshift` in its spectrum, using the `Hydrogen-alpha line`
 
 ## Background
 
