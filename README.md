@@ -1,10 +1,14 @@
-## Determine a star's motion by calculating the redshift in its spectrum, using the Hydrogen-alpha () line
+# Stellar Motion
+
+## Aim
+
+We aim to determine a star's motion by calculating the `redshift` in its spectrum, using the `Hydrogen-alpha line`
 
 ## Background
 
 Using a MATLAB script, we can easily calculate the `red shift` for any star in the data set. We could even perform the same operations for all of the stars in the collected data set.
 
-In this porject, we have found the `Hydrogen-alpha` wavelength of the star by finding the  `minimum value of the spectral intensities (s)`
+In this porject, we have found the `Hydrogen-alpha` wavelength of all the stars by finding the `minimum value of their spectral intensities(s)`
 
 ## More Info
 
