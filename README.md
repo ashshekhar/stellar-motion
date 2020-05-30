@@ -21,4 +21,4 @@ For some stars, the `Hydrogen-alpha line` occurs at the maximum intensity value,
 2. `stellar-motion-2.m :` Generates a spectra of all the stars as shown in `sm2-multiple.png` to find their `Hydrogen-alpha line`
 
 ## Output
-![Graph Generated]()
+![Graph Generated](https://github.com/ashshekhar/stellar-motion/blob/master/sm2-multiple.png)
