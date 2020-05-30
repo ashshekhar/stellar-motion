@@ -13,3 +13,12 @@ In this porject, we have found the `Hydrogen-alpha` wavelength of all the stars 
 ## More Info
 
 For some stars, the `Hydrogen-alpha line` occurs at the maximum intensity value, rather than the minimum. Therefore, a more robust approach is to find the maximum anomaly (difference from the mean), rather than the maximum or minimum spectral value. The anomaly is defined as the `absolute value of the difference between s and mean(s)`
+
+## Code
+
+1. `stellar-motion-1.m :` Calculates the wavelength of the `Hydrogen-alpha line` of `HD 94028 star` to be `656.62 nm` which is slightly larger than the observed value of `656.28 nm`
+
+2. `stellar-motion-2.m :` Generates a spectra of all the stars as shown in `sm2-multiple.png` to find their `Hydrogen-alpha line`
+
+## Output
+![Graph Generated]()
