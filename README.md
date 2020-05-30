@@ -18,7 +18,7 @@ For some stars, the `Hydrogen-alpha line` occurs at the maximum intensity value,
 
 1. `stellar-motion-1.m :` Calculates the wavelength of the `Hydrogen-alpha line` of `HD 94028 star` to be `656.62 nm` which is slightly larger than the observed value of `656.28 nm`
 
-2. `stellar-motion-2.m :` Generates a spectra of all the stars as shown in `sm2-multiple.png` to find their `Hydrogen-alpha line`
+2. `stellar-motion-2.m :` Generates a spectra of all the stars as shown below to find their `Hydrogen-alpha line` and hence their wavelengths
 
 ## Output
 ![Graph Generated](https://github.com/ashshekhar/stellar-motion/blob/master/sm2-multiple.png)
